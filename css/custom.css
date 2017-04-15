@@ -8,6 +8,14 @@ body {
   font-size: 1.2rem;
 }
 
+.about_me_header .avatar {
+  max-width: 70px;
+  margin-top: 20px;
+  position: relative;
+  left: 25px;
+  border-radius: 50%;
+}
+
 .collection .collection-item.avatar {
   height: 62px;
   border-bottom: 0px
